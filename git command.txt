@@ -1,0 +1,6 @@
+git init
+git config --global user.email phuongngovn@yahoo.com
+git add *
+git commit -m "commit"
+git remote add origin https://github.com/phuongngovn/OnlineEducation.git
+git push origin master
